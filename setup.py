@@ -4,7 +4,7 @@
 NAME = "ZenPacks.community.SwiftCM2"
 VERSION = "1.0"
 AUTHOR = "Benny Chitambira"
-LICENSE = "LGPL"
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.SwiftCM2']
 INSTALL_REQUIRES = []
